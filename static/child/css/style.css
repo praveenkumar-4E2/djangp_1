@@ -27,7 +27,7 @@
  .banner{
     width: 100%;
     min-height: 100vh;
-    filter: blur(30px);
+    filter: blur(20px);
     background-size: 100% 100%;
    
  }
