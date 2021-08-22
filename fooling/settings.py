@@ -28,8 +28,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     'praveen-1.herokuapp.com'
-    ]
-
+]
+#'praveen-1.herokuapp.com'
 
 # Application definition
 
